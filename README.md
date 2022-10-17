@@ -1,3 +1,7 @@
+# This is NOT PolyMC
+
+This repo is just a screenshot of the state of PolyMC on 17 October 2022. This repo is not active and will not accept changes or pull requests.
+
 <p align="center">
 <img src="./program_info/polymc-header-black.svg#gh-light-mode-only" alt="PolyMC logo" width="50%"/>
 <img src="./program_info/polymc-header.svg#gh-dark-mode-only" alt="PolyMC logo" width="50%"/>
